@@ -1,0 +1,7 @@
+.idea/
+*.iml
+urule-console-js/node_modules/
+demo/target/
+urule-console/target/
+urule-core/target/
+urule-springboot/target/
