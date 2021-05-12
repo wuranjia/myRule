@@ -14,7 +14,7 @@
     "bootbox": "^4.4.0",
     "bootstrap": "^3.3.6",
     "bootstrapvalidator": "^0.5.4",
-    "codemirror": "^5.33.0",
+    "codemirror": "^5.58.2",
     "css": "^2.2.1",
     "events": "^1.1.0",
     "flowdesigner": "^1.1.55",
