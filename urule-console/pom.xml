@@ -20,7 +20,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.17</version>
+            <version>8.0.28</version>
         </dependency>
         <!-- Apache Jackrabbit是基于java内容仓库仓库JSR170、JSR283的完全实现，支持存储结构化和非结构化内容。具有全文索引、版本管理、事务、锁、事件监听、访问控制等特性 -->
         <dependency>
